@@ -26,6 +26,7 @@ If you're bored, try the typing game or laugh at the jokes on my [terminal portf
 
 #### 224 Industries (Fractional CTO)
 
+- [Webflow AI SDK](https://github.com/224-Industries/webflow-ai-sdk): AI SDK compatible tools for Webflow.
 - [Webflow Agent Skills](https://github.com/224-Industries/webflow-skills): Agent skills for building projects with and for Webflow.
 
 ---
