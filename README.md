@@ -16,6 +16,7 @@ If you're bored, try the typing game or laugh at the jokes on my [terminal portf
 
 #### Flash Brew Digital (Founder)
 
+- [AI SDK Library](https://aisdklibrary.com): Curated collection of pre-built agents and tools for the Vercel AI SDK.
 - [Build Skill](https://github.com/Flash-Brew-Digital/build-skill): Scaffold AI agent skills quickly with the Build Skill CLI.
 - [Validate Skill](https://github.com/Flash-Brew-Digital/validate-skill): Validate a SKILL.md against the Agent Skills specification.
 - [Resend - AI SDK Tools](https://github.com/Flash-Brew-Digital/resend-ai-sdk): AI SDK compatible tools for Resend.
@@ -26,7 +27,7 @@ If you're bored, try the typing game or laugh at the jokes on my [terminal portf
 
 #### 224 Industries (Fractional CTO)
 
-- [Webflow AI SDK](https://github.com/224-Industries/webflow-ai-sdk): AI SDK compatible tools for Webflow.
+- [Webflow AI SDK](https://github.com/224-Industries/webflow-ai-sdk): AI SDK compatible tools and agents for Webflow.
 - [Webflow Agent Skills](https://github.com/224-Industries/webflow-skills): Agent skills for building projects with and for Webflow.
 
 ---
