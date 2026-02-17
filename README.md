@@ -16,6 +16,7 @@ If you're bored, try the typing game or laugh at the jokes on my [terminal portf
 
 #### Flash Brew Digital (Founder)
 
+- [Memberstack CLI](https://memberstack-cli.flashbrew.digital): Manage your Memberstack account from your terminal.
 - [AI SDK Library](https://aisdklibrary.com): Curated collection of pre-built agents and tools for the Vercel AI SDK.
 - [Build Skill](https://github.com/Flash-Brew-Digital/build-skill): Scaffold AI agent skills quickly with the Build Skill CLI.
 - [Validate Skill](https://github.com/Flash-Brew-Digital/validate-skill): Validate a SKILL.md against the Agent Skills specification.
