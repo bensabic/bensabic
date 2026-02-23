@@ -12,6 +12,25 @@ If you're bored, try the typing game or laugh at the jokes on my [terminal portf
 
 ---
 
+<div style="display: flex; align-items: center; gap: 0;">
+
+  <a href="https://factory.cancred.ca/v1/assertion/143c30ec5ca5e02fab449ebeb8fc33cc90495571" style="padding: 0px;">
+    <img src="https://factory.cancred.ca/v1/badge/_/R9VCPDa1XWFQa59Y.png" width="140" alt="Chartered Marketer (CM) - Canadian Marketing Association"/>
+  </a>
+  
+  <a href="https://www.credly.com/badges/5c7cc8ae-ffd4-4b9d-a6fd-d3c01c50c84e/public_url" style="padding: 0 8px; border-right: 1px solid white;">
+    <img src="https://images.credly.com/images/5bd2d506-c95c-4766-a5b1-8da62a3a23b2/blob" width="140" alt="Google AI Professional Certificate"/>
+  </a>
+
+  <a href="https://certs.digitalmarketinginstitute.com/4242c03c-070c-4baf-9c5b-05dde539a67b" style="padding: 0 8px; border-right: 1px solid white;">
+    <img src="https://images.credly.com/images/bb304f69-e171-4ee8-999c-78b45813b6c1/bac79e17-96c9-4eb8-bbe3-8ba01e8a640a_cached_image_20260223-30-ufb1ja.png" width="140" alt="Certified Digital Marketing Associate"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/dae08f09-84fd-4071-a1e6-79db26e360bb/public_url" style="padding: 0 8px; border-right: 1px solid white;">
+    <img src="https://images.credly.com/size/340x340/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png" width="140" alt="Google Digital Marketing and E-Commerce Professional Certificate"/>
+  </a>
+</div>
+
 ### Projects
 
 #### Flash Brew Digital (Founder)
