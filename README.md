@@ -1,6 +1,6 @@
 ## Hey there, I'm Benny! 👋
 
-### Chartered Marketer turned open-source tinkerer.
+### Vercel Content Engineer and Chartered Marketer
 
 I'm a technical marketer based in Melbourne, Australia (by way of Winnipeg, Canada) who likes building tools that make marketers' and developers' lives a little easier.
 
